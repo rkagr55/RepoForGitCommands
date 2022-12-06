@@ -2,8 +2,7 @@
 public class New {
 
 	public static void main(String[] args) {
-		System.out.println("updated class for pull testing");
-
+		System.out.println("updated class for pull test");
 	}
 
 }
