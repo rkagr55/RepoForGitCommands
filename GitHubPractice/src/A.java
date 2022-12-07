@@ -1,6 +1,6 @@
 public class A {
 
 	public static void main(String[] args) {
-		System.out.println("Latest commit0010");
+		System.out.println("Latest commit0020");
 	}
 }
